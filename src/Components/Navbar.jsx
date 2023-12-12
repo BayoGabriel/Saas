@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { useState } from "react";
 import Logo from "../Assets/bookwik-high-resolution-logo-black-transparent.png";
 import { HiOutlineBars3 } from "react-icons/hi2";

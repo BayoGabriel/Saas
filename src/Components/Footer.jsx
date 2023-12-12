@@ -16,7 +16,7 @@ const Footer = () => {
           <BsTwitter />
           <SiLinkedin />
           <BsYoutube />
-          <FaFacebookF />
+          <FaFacebookF /> 
         </div>
       </div>
       <div className="footer-section-two">
